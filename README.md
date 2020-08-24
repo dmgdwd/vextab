@@ -1,7 +1,7 @@
 # VexTab 3.0
 
 A VexTab Parser for VexFlow.
-Copyright (c) 2012 Mohit Muthanna Cheppudira.
+Copyright (c) 2012 Mohit Muthanna Cheppudira. here
 
 ## Need Help? Ask on the [VexFlow Google Group.](https://groups.google.com/forum/?fromgroups#!forum/vexflow)
 
